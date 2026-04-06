@@ -57,4 +57,5 @@ The project was conducted in three main stages:
 ## Explore The Outcome
 
 👉 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTExNmQ5NTAtN2Y1Yy00OWJjLWE5MDUtYzg1NjczMTcxN2VlIiwidCI6ImExYjZmMzMyLThlMzEtNDIwMS1hMDNhLTE2MzBmMWRiYTBlNSJ9)
+
 👉 [Presentation](https://github.com/sna-ds/internpro/blob/main/Sales%20Internpro.pdf)
